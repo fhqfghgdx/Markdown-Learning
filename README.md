@@ -14,14 +14,8 @@
 
 
 
-[Typora-learning.md ][]
-
-[Typora-learning.md ]: https://support.typora.io/Markdown-Reference/	"Typora-learning"
-
-
-
 # 更新历史
 
-## V0.1(2018/05/07)
+## v0.1(2018/05/07)
 
 * 上传第一个文件： Typora-learning.md
