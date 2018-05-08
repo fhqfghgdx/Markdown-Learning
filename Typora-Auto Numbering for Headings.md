@@ -10,7 +10,7 @@
 
 ​	Typora 自带的几种主题
 
-![Typora 自带主题](E:\NS-SYN\Home-PC\File\Markdown\Typora\Picture\Typora 自带主题.bmp)
+![Typora 自带主题](E:\OneDrive\GitHub\Markdown-Learning\Picture\Typora 自带主题.bmp)
 
 ​	在该目录下分别对应，同名 \*.css 主题文件。
 
@@ -118,10 +118,10 @@ h6.md-focus:before {
 
 **添加前：**
 
-![添加前](E:\NS-SYN\Home-PC\File\Markdown\Typora\Picture\添加前.bmp)
+![添加前](E:\OneDrive\GitHub\Markdown-Learning\Picture\添加前.bmp)
 
 **添加后：**
 
-![添加后](E:\NS-SYN\Home-PC\File\Markdown\Typora\Picture\添加后.bmp)
+![添加后](E:\OneDrive\GitHub\Markdown-Learning\Picture\添加后.bmp)
 
 ​	其他主题，添加方法与之相同，不再一一示例。
